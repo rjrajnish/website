@@ -59,4 +59,4 @@ Please see [SECURITY.md](./SECURITY.md) for information about disclosure policy 
 License
 =======
 
-This project has a [MIT license](LICENSE.md).
+This Project has a [MIT license](LICENSE.md).
